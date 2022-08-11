@@ -1,5 +1,0 @@
-# Ensure files are always checked in with consistent line endings
-* text eol=lf
-*.png binary
-*.pptx binary
-*.odp binary
